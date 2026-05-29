@@ -1,0 +1,17 @@
+# ── Entorno reproducible — Pregunta 3: Detección de cumplimiento EPP (YOLOv9) ──
+# Probado en Google Colab (Python 3.12, CUDA 12.x, GPU T4 15.6 GB).
+# Instalación:  pip install -r requirements.txt
+
+ultralytics>=8.2.0          # YOLOv9 (GELAN-C / GELAN-E), entrenamiento y val
+roboflow>=1.1.30            # descarga del dataset SHWD v3
+opencv-python-headless>=4.9 # lectura/anotación de fotogramas
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13              # matriz de confusión / EDA
+scikit-learn>=1.4          # métricas por grupo de oclusión
+albumentations>=1.4        # visualización de augmentation
+pyyaml>=6.0
+tqdm>=4.66
+torch>=2.2                 # instalar la build con CUDA acorde a tu GPU
+torchvision>=0.17

@@ -1,0 +1,5 @@
+Métrica,Valor
+mAP@0.5 (global),0.9288
+mAP@0.5:0.95 (global),0.5829
+Precisión (global),0.9343
+Recall (global),0.8870
