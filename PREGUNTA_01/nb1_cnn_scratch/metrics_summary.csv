@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,auc_roc,best_epoch,best_lr,best_loss_fn
+TireNet (CNN Scratch),0.6215384615384615,0.6830439138420438,0.6815734989648032,0.6215241287244014,0.6208433200565447,0.7956314699792961,24,0.0001,bce

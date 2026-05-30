@@ -1,0 +1,9 @@
+image_path,true_label,pred_label,prob_cracked,confidence_wrong,error_type,hypothesis
+/content/data/tire_texture/Tire Textures/testing_data/normal/Untitled-10.jpg,normal,cracked,0.497802734375,0.497802734375,FP,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/IMG_4357.jpg,cracked,normal,0.5185546875,0.4814453125,FN,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/IMG_4275.jpg,cracked,normal,0.52001953125,0.47998046875,FN,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/Untitled-13.jpg,cracked,normal,0.5244140625,0.4755859375,FN,
+/content/data/tire_texture/Tire Textures/testing_data/normal/Untitled-5.jpg,normal,cracked,0.462158203125,0.462158203125,FP,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/Untitled-63.jpg,cracked,normal,0.5517578125,0.4482421875,FN,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/Cracked-13.jpg,cracked,normal,0.5556640625,0.4443359375,FN,
+/content/data/tire_texture/Tire Textures/testing_data/cracked/IMG_4386.jpg,cracked,normal,0.55712890625,0.44287109375,FN,
